@@ -1,6 +1,7 @@
 package ch05;
 
-public class ReferenceVariableCompareExample {
+public class
+ReferenceVariableCompareExample {
     public static void main(String[] args) {
         int[] arr1;
         int[] arr2;
